@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidServices</string>
+    <string name="information">Phone Number URL EMAIL etc</string>
+    <string name="Web">Web</string>
+    <string name="Email">Email</string>
+    <string name="Dial">Dial Phone</string>
+    <string name="Call">Call</string>
+    <string name="Maps">Maps</string>
+    <string name="Text">Text</string>
+</resources>
